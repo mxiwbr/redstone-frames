@@ -1,0 +1,7 @@
+name: RedstoneFrames
+version: 1.0.0
+main: io.github.mxiwbr.redstoneframes.RedstoneFrames
+description: A Minecraft plugin that allows item frames to be toggled invisible by powering it with redstone.
+author: mxiwbr
+website: https://github.com/mxiwbr/redstone-frames
+api-version: '1.21.11'
